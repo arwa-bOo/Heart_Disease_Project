@@ -105,9 +105,9 @@ You can deploy the project online using [Streamlit Community Cloud](https://stre
 ---
 ## Author
 
-Developed by Arwa Saleh
+Developed by Mariam abdelhady
 -  Email: [ arwasalehf124a@gmail.com](mailto:arwasalehf124a@gmail.com)  
--  LinkedIn:https://www.linkedin.com/in/arwa-saleh-782318295
+-  LinkedIn: [https://www.linkedin.com/in/mariam-abd-elhady-236a2236b](https://www.linkedin.com/in/https://www.linkedin.com/in/mariam-abd-elhady-236a2236b)
 
 ---
 
@@ -123,5 +123,4 @@ Dataset from [UCI Machine Learning Repository – Heart Disease Dataset](https:/
     <img src="https://static.streamlit.io/badges/streamlit_badge_black_white.svg" alt="Open in Streamlit" width="250">
   </a>
 </p>
-
 
