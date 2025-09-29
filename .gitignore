@@ -1,0 +1,12 @@
+
+pycache/
+*.pyc
+*.pyo
+*.pyd
+*.DS_Store
+
+
+venv/
+.env/
+
+.ipynb_checkpoints/
